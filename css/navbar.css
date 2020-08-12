@@ -1,0 +1,64 @@
+.title {
+  letter-spacing: 2px !important;
+  font-size: 40px;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  transition: 0.6s;
+  z-index: 100;
+}
+
+.navbar-nav {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.logo-one {
+  height: 70px;
+  margin: 5px 5px 5px 30px;
+  background-image: url("../assets/images/logo_bg-1.png");
+}
+
+.navbar-drop-icon {
+  margin-right: 15px;
+}
+
+.nav-link {
+  margin-right: 15px;
+  color: #fff !important;
+}
+
+.nav-item .nav-link:hover {
+  background-color: #113a99 !important;
+}
+
+nav.sticky {
+  box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+@media (max-width: 767px) {
+  .nav-link {
+    margin-bottom: 15px;
+  }
+
+  .icons {
+    margin-bottom: 1rem;
+  }
+
+  .logo-one {
+    height: 50px !important;
+  }
+}
+
+.dropdown-item {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 2px;
+}
+
+.dropdown-icon {
+  font-size: 16px;
+  margin-left: 2px;
+}

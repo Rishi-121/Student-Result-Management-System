@@ -1,0 +1,14 @@
+.student-image {
+  width: 100%;
+  border-radius: 100%;
+}
+
+@media (max-width: 768px) {
+  .student-image {
+    width: 50%;
+  }
+
+  .content {
+    margin-top: 20px;
+  }
+}
