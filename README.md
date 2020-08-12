@@ -10,13 +10,13 @@ First, as a student you have to enter the email address and registration number 
 
 # Technology Stack:-
 
-**1) HTML 5
-**2) CSS 3
-**3) Bootstrap
-**4) Javascript
-**5) PHP 7
-**6) MySQL Database
-**7) Some Coffee ☕ (Most Important for Programmers)
+* **1) HTML 5
+* **2) CSS 3
+* **3) Bootstrap
+* **4) Javascript
+* **5) PHP 7
+* **6) MySQL Database
+* **7) Some Coffee ☕ (Most Important for Programmers)
 
 
 
